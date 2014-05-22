@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drum Droid</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view1">Play The Drums! </string>
+    <string name="seek_bar">Seek Bar</string>
+    <string name="textView2">Data Send</string>
+    <string name="button_one"> Drumroll </string>
+    <string name="button_three"> Left Stick </string>
+    <string name="button_four"> Right Stick </string>
+
+</resources>
