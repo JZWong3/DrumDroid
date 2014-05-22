@@ -3,7 +3,6 @@
 #include <iostream>
 #include "PWM.h"
 #include "SERVO.h"
-#include "pinClass.h"
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <netinet/in.h>
